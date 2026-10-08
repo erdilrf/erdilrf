@@ -98,8 +98,18 @@ Concretely, this means:
 
 | Repository | What it is |
 |---|---|
-| [`erdi-lrf-drivers`](https://github.com/erdilrf/erdi-lrf-drivers) | Python, Arduino and ROS 2 drivers for both published protocol families |
 | [`erdilrf`](https://github.com/erdilrf/erdilrf) | This index |
+
+> **The driver repositories are being rebuilt under this organisation.** Until that is complete,
+> the existing public copies remain at
+> [`yu911517778-a11y/erdi-lrf-drivers`](https://github.com/yu911517778-a11y/erdi-lrf-drivers)
+> and [`yu911517778-a11y/ErdiLRF`](https://github.com/yu911517778-a11y/ErdiLRF).
+>
+> We are listing the old locations explicitly rather than pointing at links that do not exist
+> yet — a dead link in this particular repository would be embarrassing.
+>
+> **No licence is granted on the old copies.** The rebuild under this organisation will state its
+> licence explicitly rather than assume one.
 
 ---
 
